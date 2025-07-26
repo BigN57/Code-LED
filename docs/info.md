@@ -17,4 +17,4 @@ LEDs
 
 ## External hardware
 
-None
+LEDs
